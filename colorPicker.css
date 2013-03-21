@@ -1,0 +1,20 @@
+#color-picker-pannel{
+	height: 300px;
+	width: 300px;
+	background-color: #eee;
+	border: solid 1px #aaa;
+	display: none;
+}
+
+	#color-row{
+		height: 2px;
+		width: 300px;
+		background-color: #fff;
+	}
+
+		.color-btn{
+			display: inline-block;
+			height: 12px;
+			width: 12px;
+			border: solid 1px #aaa;
+		}
